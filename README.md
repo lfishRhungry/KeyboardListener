@@ -2,5 +2,5 @@
 
 采用了Qt，并在VS中编写的64位程序。
 
-![](./Screen Shot 2019-10-06 at 11.13.59 PM.png)
+![示例图](https://github.com/lfishRhungry/KeyboardListener/blob/master/Screen%20Shot%202019-10-06%20at%2011.13.59%20PM.png)
 
